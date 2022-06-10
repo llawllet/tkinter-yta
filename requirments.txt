@@ -1,0 +1,2 @@
+tkinter
+yt_dlp
